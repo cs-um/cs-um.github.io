@@ -1,2 +1,2 @@
 # cs-um.github.io
-Computer Science Department - Ferdowsi University of Mashhad
+Computer Science Department - Ferdowsi University of Mashhad (unofficial)
